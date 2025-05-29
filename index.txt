@@ -4,7 +4,7 @@
         <td align="center">
             <table width="680" cellpadding="0" cellspacing="0" border="0"
                 style="background: #FFFFFF; background-image: url(https://email-template-seven-steel.vercel.app/images/Background.png); background-position: center; background-repeat: no-repeat; background-size: contain; border-radius:6px; overflow:hidden; height: auto; mso-height-rule: exactly;">
-                <!--[if gte mso 9]>
+<!--[if gte mso 9]>
 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:680px;height:100%%;">
   <v:fill type="frame" src="https://email-template-seven-steel.vercel.app/images/Background.png" color="#FFFFFF" />
   <v:textbox inset="0,0,0,0">
@@ -15,9 +15,9 @@
                         <table cellpadding="0" cellspacing="0" border="0"
                             style="background-color: #002677; border-radius: 0px 0px 40px 0px;">
                             <tr>
-                                <td>
-                                    <img src="images/chit.png" width="74" height="81" alt="United Healthcare"
-                                        style="display: block; margin: 0 auto 10px auto;">
+                                <td
+                                    style="padding: 34px 17px; color: #ffffff; font-size: 14px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; text-align: center;">
+                                    April 2025<br>ISSUE
                                 </td>
                             </tr>
                         </table>
@@ -242,9 +242,129 @@
                                         </tr>
                                     </table>
 
-                                    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <table border="0" cellspacing="0" cellpadding="0" width="100%"
+                                        style="padding: 30px 30px 20px 30px;">
                                         <tr>
-                                            <img src="images/steps-div.png" width="100%" height="100%" alt="">
+                                            <td>
+                                                <div style="margin-bottom: 28px; margin-top: 50px;">
+                                                    <h3 style="color: #002677; font-size: 14px; font-weight: 700;">
+                                                        United
+                                                        Healthcare Community</h3>
+                                                    <h2
+                                                        style="color: #434343; font-size: 20px; font-weight: 700; font-family: Georgia, 'Times New Roman', Times, serif;">
+                                                        Spotlight on Team Achievements</h2>
+                                                </div>
+                                                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                    <tr>
+                                                        <!-- Box 1 -->
+                                                        <td align="center" valign="top" style="padding: 10px;">
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tr>
+                                                                    <td
+                                                                        style="background-color: #00BED5; width: 60px; height: 60px; border-radius: 8px;">
+                                                                    </td>
+                                                                    <td style="padding-left: 10px;">
+                                                                        <h3
+                                                                            style="margin: 0 0 5px 0; font-size: 20px; font-weight: 500; color: #1E1D4E; font-family: Arial, sans-serif;">
+                                                                            9,321,456
+                                                                        </h3>
+                                                                        <h5
+                                                                            style="margin: 0; font-size: 12px; font-weight: 500; color: #434343; font-family: Arial, sans-serif;">
+                                                                            Total API
+                                                                        </h5>
+                                                                        <p
+                                                                            style="margin: 0; font-size: 8px; font-weight: 500; color: #434343; font-family: Arial, sans-serif;">
+                                                                            last month 4,444,222
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+
+                                                        <!-- Box 2 -->
+                                                        <td align="center" valign="top" style="padding: 10px;">
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tr>
+                                                                    <td
+                                                                        style="background-color: #002677; width: 60px; height: 60px; border-radius: 8px;">
+                                                                    </td>
+                                                                    <td style="padding-left: 10px;">
+                                                                        <h3
+                                                                            style="margin: 0 0 5px 0; font-size: 20px; font-weight: 500; color: #1E1D4E; font-family: Arial, sans-serif;">
+                                                                            20
+                                                                        </h3>
+                                                                        <h5
+                                                                            style="margin: 0; font-size: 12px; font-weight: 500; color: #434343; font-family: Arial, sans-serif;">
+                                                                            Total New Track Calls
+                                                                        </h5>
+                                                                        <p
+                                                                            style="margin: 0; font-size: 8px; font-weight: 500; color: #434343; font-family: Arial, sans-serif;">
+                                                                            last month 15
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+
+                                                        <!-- Box 3 -->
+                                                        <td align="center" valign="top" style="padding: 10px;">
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tr>
+                                                                    <td
+                                                                        style="background-color: #828282; width: 60px; height: 60px; border-radius: 8px;">
+                                                                    </td>
+                                                                    <td style="padding-left: 10px;">
+                                                                        <h3
+                                                                            style="margin: 0 0 5px 0; font-size: 20px; font-weight: 500; color: #1E1D4E; font-family: Arial, sans-serif;">
+                                                                            15%
+                                                                        </h3>
+                                                                        <h5
+                                                                            style="margin: 0; font-size: 12px; font-weight: 500; color: #434343; font-family: Arial, sans-serif;">
+                                                                            % of User Identified
+                                                                        </h5>
+                                                                        <p
+                                                                            style="margin: 0; font-size: 8px; font-weight: 500; color: #434343; font-family: Arial, sans-serif;">
+                                                                            last month 10%
+                                                                        </p>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+
+                                                <div style="margin-bottom: 28px; margin-top: 50px;">
+                                                    <div
+                                                        style="overflow: hidden; margin-bottom: 8px; border-radius: 10px; background-color: #f0f0f0; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; display: flex; align-items: center;">
+                                                        <h4
+                                                            style="margin: 0; width: 100%; font-weight: 500; color: #002677; padding: 20px 16px;">
+                                                            New Source</h4>
+                                                        <h4
+                                                            style="margin: 0; width: 100%; font-weight: 500; color: #fff; padding: 20px 16px; background-color: #828282;">
+                                                            0 New Source
+                                                        </h4>
+                                                    </div>
+                                                    <div
+                                                        style="margin-bottom: 8px; overflow: hidden; border-radius: 10px; background-color: #f0f0f0; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; display: flex; align-items: center;">
+                                                        <h4
+                                                            style="margin: 0; width: 100%; font-weight: 500; color: #002677; padding: 20px 16px;">
+                                                            New Destinations</h4>
+                                                        <h4
+                                                            style="margin: 0; width: 100%; font-weight: 500; color: #fff; padding: 20px 16px; background-color: #002677;">
+                                                            0 New Destinations</h4>
+                                                    </div>
+                                                    <div
+                                                        style="overflow: hidden; border-radius: 10px; background-color: #f0f0f0; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; display: flex; align-items: center;">
+                                                        <h4
+                                                            style="margin: 0; width: 100%; font-weight: 500; color: #002677; padding: 20px 16px;">
+                                                            Sources with No Data</h4>
+                                                        <h4
+                                                            style="margin: 0; width: 100%; font-weight: 500; color: #fff; padding: 20px 16px; background-color: #00BED5;">
+                                                            0 Sources not sending Data
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </td>
                                         </tr>
                                     </table>
                                     <table border="0" cellspacing="0" cellpadding="0" width="100%"
@@ -509,8 +629,97 @@
                                         style="font-family: Arial, sans-serif; background-color: #ffffff; padding: 20px;">
                                         <tr>
                                             <td align="center">
-                                                <img src="images/section-image.png"
-                                                    alt="logo">
+                                                <table width="600" cellpadding="0" cellspacing="0" border="0">
+                                                    <tr>
+                                                        <td valign="top" width="360">
+                                                            <h4
+                                                                style="font-size: 16px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold; color: #423E3E; margin: 0 0 8px;">
+                                                                Reminders</h4>
+                                                            <p
+                                                                style="font-size: 10px; font-family: Georgia, 'Times New Roman', Times, serif; color: #423e3e66; margin: 0 0 23px;">
+                                                                Lorem ipsum dolor sit amet consectetur. Lectus.</p>
+                                                            <table cellpadding="0" cellspacing="0" border="0"
+                                                                style="margin-bottom: 20px; background-color: #002677; border-radius: 10px 10px 40px 10px;">
+                                                                <tr>
+                                                                    <td width="60" align="center" valign="middle"
+                                                                        style="border-right: 1px solid #423e3e96; padding: 10px;">
+                                                                        <img src="https://email-template-seven-steel.vercel.app/images/hugeicons_apple-reminder.png"
+                                                                            alt="Icon">
+                                                                    </td>
+                                                                    <td style="padding: 10px 11px;">
+                                                                        <div
+                                                                            style="font-weight: bold; font-size: 12px; color: #fff; margin-bottom: 5px;">
+                                                                            Lorem Ipsum Dolor Sit Amet</div>
+                                                                        <div style="font-size: 10px; color: #807d7d;">
+                                                                            Lorem Ipsum Dolor Sit Amet, Consectetur
+                                                                            Adipiscing Elit, Sed Do Eiusmod</div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0"
+                                                                style="margin-bottom: 20px; background-color: #e6f7f9a3; border-radius: 10px 10px 40px 10px;">
+                                                                <tr>
+                                                                    <td width="60" align="center" valign="middle"
+                                                                        style="border-right: 1px solid #423e3e96; padding: 10px;">
+                                                                        <img src="https://email-template-seven-steel.vercel.app/images/fluent-mdl2_reminder-time.png"
+                                                                            alt="Icon">
+                                                                    </td>
+                                                                    <td style="padding: 10px 11px;">
+                                                                        <div
+                                                                            style="font-weight: bold; font-size: 12px; color: #000000; margin-bottom: 5px;">
+                                                                            Lorem Ipsum Dolor Sit Amet</div>
+                                                                        <div style="font-size: 10px; color: #36363694;">
+                                                                            Lorem Ipsum Dolor Sit Amet, Consectetur
+                                                                            Adipiscing Elit, Sed Do Eiusmod</div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+
+                                                            <table cellpadding="0" cellspacing="0" border="0"
+                                                                style="margin-bottom: 20px; background-color: #e6f7f9a3; border-radius: 10px 10px 40px 10px;">
+                                                                <tr>
+                                                                    <td width="60" align="center" valign="middle"
+                                                                        style="border-right: 1px solid #423e3e96; padding: 10px;">
+                                                                        <img src="https://email-template-seven-steel.vercel.app/images/Vector.png"
+                                                                            alt="Icon">
+                                                                    </td>
+                                                                    <td style="padding: 10px 11px;">
+                                                                        <div
+                                                                            style="font-weight: bold; font-size: 12px; color: #000000; margin-bottom: 5px;">
+                                                                            Lorem Ipsum Dolor Sit Amet</div>
+                                                                        <div style="font-size: 10px; color: #36363694;">
+                                                                            Lorem Ipsum Dolor Sit Amet, Consectetur
+                                                                            Adipiscing Elit, Sed Do Eiusmod</div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <table cellpadding="0" cellspacing="0" border="0"
+                                                                style="margin-bottom: 20px; background-color: #e6f7f9a3; border-radius: 10px 10px 40px 10px;">
+                                                                <tr>
+                                                                    <td width="60" align="center" valign="middle"
+                                                                        style="border-right: 1px solid #423e3e96; padding: 10px;">
+                                                                        <img src="https://email-template-seven-steel.vercel.app/images/Vector-1.png"
+                                                                            alt="Icon">
+                                                                    </td>
+                                                                    <td style="padding: 10px 11px;">
+                                                                        <div
+                                                                            style="font-weight: bold; font-size: 12px; color: #000000; margin-bottom: 5px;">
+                                                                            Lorem Ipsum Dolor Sit Amet</div>
+                                                                        <div style="font-size: 10px; color: #36363694;">
+                                                                            Lorem Ipsum Dolor Sit Amet, Consectetur
+                                                                            Adipiscing Elit, Sed Do Eiusmod</div>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+
+                                                        <td valign="top" width="340" align="right">
+                                                            <img src="https://email-template-seven-steel.vercel.app/images/girls.png"
+                                                                alt="Image"
+                                                                style="max-width: 100%; display: block; border-radius: 10px;">
+                                                        </td>
+                                                    </tr>
+                                                </table>
                                             </td>
                                         </tr>
                                     </table>
@@ -542,13 +751,13 @@
                         </table>
                     </td>
                 </tr>
-
-                <!--[if gte mso 9]>
+            
+<!--[if gte mso 9]>
   </v:textbox>
 </v:rect>
 <![endif]-->
 
-            </table>
+</table>
         </td>
     </tr>
 </table>
