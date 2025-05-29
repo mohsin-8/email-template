@@ -13,7 +13,7 @@ const htmlContent = fs.readFileSync('index.html', 'utf-8');
 
 const mailOptions = {
   from: 'alikhanmohsin420@gmail.com',
-  to: 'joanzaidizaidi@yahoo.com',
+  to: 'alikhanmohsin420@outlook.com',
   subject: 'Test Email Template',
   html: htmlContent,
 };
