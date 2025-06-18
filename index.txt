@@ -60,7 +60,7 @@
                         <table width="100%" cellpadding="0" cellspacing="0" border="0">
                             <tr>
                                 <td align="center">
-                                    <img src="images/banner-image.png"
+                                    <img src="https://email-template-seven-steel.vercel.app/images/banner-image.png"
                                         width="522" style="border-radius: 10px; display: block;" alt="Feature Image">
                                 </td>
                             </tr>
@@ -90,7 +90,7 @@
                                                 </p>
                                             </td>
                                             <td valign="top" width="45%" align="right">
-                                                <img src="images/web-picture.png"
+                                                <img src="https://email-template-seven-steel.vercel.app/images/web-picture.png"
                                                     width="100%" style="border-radius: 12px; display: block;"
                                                     alt="Project Image">
                                             </td>
@@ -714,7 +714,7 @@
                                                         </td>
 
                                                         <td valign="top" width="340" align="right">
-                                                            <img src="images/hands.jpg"
+                                                            <img src="https://email-template-seven-steel.vercel.app/images/hands.jpg"
                                                                 alt="Image"
                                                                 style="max-width: 100%; display: block; border-radius: 10px;">
                                                         </td>
